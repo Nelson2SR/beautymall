@@ -1,0 +1,8 @@
+
+@Repository
+public interface VistorDao extends JpaRepository<Visitor, Long> {
+
+  @Query("select v from Visitor v where ip =:ip")
+  Visitor findByIp(String ip);
+
+}

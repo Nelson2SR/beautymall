@@ -1,0 +1,8 @@
+com/example/beautymall/model/Visitor.class
+com/example/beautymall/model/Promotion.class
+com/example/beautymall/exception/ResourceNotFoundException.class
+com/example/beautymall/controller/VisitorController.class
+com/example/beautymall/repository/VisitorRepository.class
+com/example/beautymall/BeautymallApplication.class
+com/example/beautymall/controller/PromotionController.class
+com/example/beautymall/repository/PromotionDao.class

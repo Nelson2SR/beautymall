@@ -1,0 +1,8 @@
+/app/src/main/java/com/example/beautymall/model/Promotion.java
+/app/src/main/java/com/example/beautymall/repository/PromotionDao.java
+/app/src/main/java/com/example/beautymall/repository/VisitorRepository.java
+/app/src/main/java/com/example/beautymall/model/Visitor.java
+/app/src/main/java/com/example/beautymall/controller/VisitorController.java
+/app/src/main/java/com/example/beautymall/controller/PromotionController.java
+/app/src/main/java/com/example/beautymall/exception/ResourceNotFoundException.java
+/app/src/main/java/com/example/beautymall/BeautymallApplication.java
